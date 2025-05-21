@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 # Project 3
 
 ## Group Work
@@ -75,7 +73,10 @@ Below is the LinkedIn Learning course presentation about creating GitHub profile
 
 
 
-
+<img src="https://github.com/user-attachments/assets/c9b3314b-6f02-4379-b46d-15516fa81c7b" alt="gdaz" />
+<img src="https://github.com/user-attachments/assets/1f6a702b-7d7e-48f8-9231-a4e925332b4e" alt="dagsaaa" />
+<img src="https://github.com/user-attachments/assets/55c1b130-541d-4835-9922-99cdc0c91f2d" alt="gdaaaaaa" />
+<img src="https://github.com/user-attachments/assets/47e27301-27b8-4f08-807c-b1deaa98f93b" alt="fasfasfa" />
 ---
 
 # CV Submission
