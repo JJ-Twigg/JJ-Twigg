@@ -74,11 +74,11 @@ Below is the LinkedIn Learning course presentation about creating GitHub profile
 
 # CV Submission
 
-### Evidence (10%)
+### Evidence 
 
 I created a personal CV tailored to my career interests and submitted it to my lecturer as required. The CV included key sections such as personal profile, education, work experience, skills, and references. I requested feedback and used the recommended best practices in formatting and content from the rubric. I met the submission deadline and followed the guidelines provided.
 
-### Reflection (10%) – STAR Technique
+### Reflection – STAR Technique
 
 - **S (Situation):** I needed to create and submit a CV as part of my career counselling coursework.
 - **T (Task):** Build a CV that accurately represents my qualifications, skills, and experiences.
@@ -89,11 +89,11 @@ I created a personal CV tailored to my career interests and submitted it to my l
 
 # Career Counselling
 
-### Evidence (10%)
+### Evidence
 
 I completed the Career Development module, which included multiple-choice questions on key topics such as goal setting, outcomes of career counselling, and the purpose of career development. I answered all the questions correctly, demonstrating my understanding. Total completion time: **00:17:49**.
 
-### Reflection (10%) – STAR Technique
+### Reflection – STAR Technique
 
 - **S (Situation):** I had to complete an online career development activity.
 - **T (Task):** Complete a multiple-choice quiz covering career-related topics.
@@ -104,11 +104,11 @@ I completed the Career Development module, which included multiple-choice questi
 
 # Skills and Interests
 
-### Evidence (10%)
+### Evidence
 
 I completed the Skills and Interests module by answering multiple-choice questions on values, skills, transferable skills, and career interests. I demonstrated a strong understanding of how these concepts contribute to career planning.
 
-### Reflection (10%) – STAR Technique
+### Reflection – STAR Technique
 
 - **S (Situation):** Required to complete the Skills and Interests module.
 - **T (Task):** Accurately identify values, skills, and interests in a quiz.
@@ -123,7 +123,7 @@ I completed the Skills and Interests module by answering multiple-choice questio
 
 I completed the "Create a CV" module, including a quiz that tested my knowledge of CV components. The activity took **15 minutes and 40 seconds**, and I answered all questions correctly.
 
-### Reflection (10%) – STAR Technique
+### Reflection – STAR Technique
 
 - **S (Situation):** Required to complete the module as part of coursework.
 - **T (Task):** Demonstrate understanding of CV structure and content.
@@ -134,11 +134,11 @@ I completed the "Create a CV" module, including a quiz that tested my knowledge 
 
 # Personality Assessment
 
-### Evidence (10%)
+### Evidence 
 
 I completed the Personality Assessment module by answering multiple-choice questions related to personality types and their alignment with career paths. I achieved a perfect score on the first attempt.
 
-### Reflection (10%) – STAR Technique
+### Reflection – STAR Technique
 
 - **S (Situation):** Participated in the Personality Assessment activity.
 - **T (Task):** Complete a quiz assessing personality and career alignment.
