@@ -85,7 +85,8 @@ I completed the "Create a CV" module, including a quiz that tested my knowledge 
 - **R (Result):** Reinforced CV writing best practices.
 
 ---
-<img src="https://github.com/user-attachments/assets/55c1b130-541d-4835-9922-99cdc0c91f2d" alt="gdaaaaaa" />
+<img src="https://github.com/user-attachments/assets/aeceb571-48a8-49e7-aa91-738b607d8b77" alt="gdaaaaaa" />
+
 
 # Personality Assessment
 
