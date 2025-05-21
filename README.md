@@ -69,6 +69,13 @@ Below is the LinkedIn Learning course presentation about creating GitHub profile
 
 [LinkedIn Course Video](https://mycputac-my.sharepoint.com/:v:/g/personal/222153881_mycput_ac_za/ES2dpJ1paXhOiFk5yMp90TMBM9_e9DZUL_Lq7a6eg9Xl_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yPMHLJ&referrer=Outlook.Web&referrerScenario=email-linkwithembed)
 
+
+![proof](https://github.com/user-attachments/assets/c8967937-645d-4920-b205-1525f77c6f84)
+![gda](https://github.com/user-attachments/assets/cf9a4464-337b-4d64-b695-c3098ff93007)
+
+
+
+
 ---
 
 # CV Submission
