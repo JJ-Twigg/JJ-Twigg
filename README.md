@@ -69,7 +69,7 @@ Below is the LinkedIn Learning course presentation about creating GitHub profile
 
 
 ![proof](https://github.com/user-attachments/assets/c8967937-645d-4920-b205-1525f77c6f84)
-![gda](https://github.com/user-attachments/assets/cf9a4464-337b-4d64-b695-c3098ff93007)
+
 
 
 
