@@ -74,8 +74,8 @@ I have completed many LinkedIn Learning courses in various subjects such as MySQ
 
 Below is the LinkedIn Learning course presentation about creating GitHub profiles and learning Markdown:
 
-![Picture](#)  
-![Picture](#)  
+<img src="https://github.com/user-attachments/assets/51f1678a-6b98-4e34-bfa9-75491fcacc53" alt="SFa" width="700" height="500">
+<img src="https://github.com/user-attachments/assets/1e090e63-319a-46eb-9b7a-6d561955bd2c" alt="aszf" width="700" height="500">
 ![Picture](#)
 
 [LinkedIn Course Video](https://mycputac-my.sharepoint.com/:v:/g/personal/222153881_mycput_ac_za/ES2dpJ1paXhOiFk5yMp90TMBM9_e9DZUL_Lq7a6eg9Xl_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yPMHLJ&referrer=Outlook.Web&referrerScenario=email-linkwithembed)
