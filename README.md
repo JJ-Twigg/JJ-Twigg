@@ -141,7 +141,6 @@ I completed the "Create a CV" module, including a quiz that tested my knowledge 
 ---
 <img src="https://github.com/user-attachments/assets/55c1b130-541d-4835-9922-99cdc0c91f2d" alt="gdaaaaaa" />
 
-<img src="https://github.com/user-attachments/assets/c9b3314b-6f02-4379-b46d-15516fa81c7b" alt="gdaz" />
 # Personality Assessment
 
 ### Evidence 
