@@ -73,13 +73,10 @@ Below is the LinkedIn Learning course presentation about creating GitHub profile
 
 
 
-<img src="https://github.com/user-attachments/assets/c9b3314b-6f02-4379-b46d-15516fa81c7b" alt="gdaz" />
-<img src="https://github.com/user-attachments/assets/1f6a702b-7d7e-48f8-9231-a4e925332b4e" alt="dagsaaa" />
-<img src="https://github.com/user-attachments/assets/55c1b130-541d-4835-9922-99cdc0c91f2d" alt="gdaaaaaa" />
-<img src="https://github.com/user-attachments/assets/47e27301-27b8-4f08-807c-b1deaa98f93b" alt="fasfasfa" />
+
 
 ---
-
+<img src="https://github.com/user-attachments/assets/c9b3314b-6f02-4379-b46d-15516fa81c7b" alt="gdaz" />
 # CV Submission
 
 ### Evidence 
@@ -94,7 +91,7 @@ I created a personal CV tailored to my career interests and submitted it to my l
 - **R (Result):** Successfully submitted a concise and organized CV, improving my confidence and self-marketing ability.
 
 ---
-
+<img src="https://github.com/user-attachments/assets/1f6a702b-7d7e-48f8-9231-a4e925332b4e" alt="dagsaaa" />
 # Career Counselling
 
 ### Evidence
@@ -109,7 +106,7 @@ I completed the Career Development module, which included multiple-choice questi
 - **R (Result):** Scored 100%, reinforcing my understanding of career planning.
 
 ---
-
+<img src="https://github.com/user-attachments/assets/55c1b130-541d-4835-9922-99cdc0c91f2d" alt="gdaaaaaa" />
 # Skills and Interests
 
 ### Evidence
@@ -124,7 +121,7 @@ I completed the Skills and Interests module by answering multiple-choice questio
 - **R (Result):** Scored 100%, deepening my understanding of career decision-making.
 
 ---
-
+<img src="https://github.com/user-attachments/assets/47e27301-27b8-4f08-807c-b1deaa98f93b" alt="fasfasfa" />
 # Create a CV
 
 ### Evidence (10%)
