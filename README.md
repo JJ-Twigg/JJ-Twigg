@@ -106,7 +106,8 @@ I completed the Career Development module, which included multiple-choice questi
 - **R (Result):** Scored 100%, reinforcing my understanding of career planning.
 
 ---
-<img src="https://github.com/user-attachments/assets/55c1b130-541d-4835-9922-99cdc0c91f2d" alt="gdaaaaaa" />
+<img src="https://github.com/user-attachments/assets/47e27301-27b8-4f08-807c-b1deaa98f93b" alt="fasfasfa" />
+
 # Skills and Interests
 
 ### Evidence
@@ -122,6 +123,7 @@ I completed the Skills and Interests module by answering multiple-choice questio
 
 ---
 <img src="https://github.com/user-attachments/assets/47e27301-27b8-4f08-807c-b1deaa98f93b" alt="fasfasfa" />
+
 # Create a CV
 
 ### Evidence (10%)
@@ -136,6 +138,7 @@ I completed the "Create a CV" module, including a quiz that tested my knowledge 
 - **R (Result):** Reinforced CV writing best practices.
 
 ---
+<img src="https://github.com/user-attachments/assets/55c1b130-541d-4835-9922-99cdc0c91f2d" alt="gdaaaaaa" />
 
 # Personality Assessment
 
