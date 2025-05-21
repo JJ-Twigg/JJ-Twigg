@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 # Project 3
 
 
-
 ![proof](https://github.com/user-attachments/assets/c8967937-645d-4920-b205-1525f77c6f84)
-
-
-
-
 
 
 ---
@@ -107,7 +102,7 @@ I completed the Personality Assessment module by answering multiple-choice quest
 
 
 
-
+## Extra Items:
 
 ## Group Work
 
