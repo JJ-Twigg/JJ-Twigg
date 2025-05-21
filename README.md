@@ -39,6 +39,8 @@ I created a personal CV tailored to my career interests and submitted it to my l
 
 ---
 
+![gdaaaaaa](https://github.com/user-attachments/assets/d3437ce4-791e-4c19-8608-987a5f266049)
+
 # Career Counselling
 
 ### Evidence
