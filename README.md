@@ -14,3 +14,131 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Project 3
+
+## Group Work
+
+I have been building an eCommerce clothing web app using HTML, CSS, JS, Bootstrap, and PHP with my course group throughout the year. We have held group meetings, worked together, and collaborated on all aspects of the project, including the design in Figma.
+
+![Picture](#)  
+![Picture](#)
+
+[Figma Design - Styleforless](https://www.figma.com/design/TEcCTZwUlVuNMeA4BE7qd2/Styleforless?node-id=0-1&t=DKMzC69toFIaKx7i-1)
+
+---
+
+## Project 3 Individual Video
+
+I created an individual video explaining all the work that has been completed so far regarding the Project 3 eCommerce website. I discuss how I collaborated and delegated tasks to group members as the group leader of the project, as well as the coding process and my general experience in the group.
+
+![Picture](#)
+
+[Watch the Video](https://mycputac-my.sharepoint.com/:v:/g/personal/222153881_mycput_ac_za/ES2dpJ1paXhOiFk5yMp90TMBM9_e9DZUL_Lq7a6eg9Xl_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yPMHLJ&referrer=Outlook.Web&referrerScenario=email-linkwithembed)
+
+---
+
+## Website Coding
+
+Below is an image of one of the pages with working Bootstrap and PHP functionality.
+
+![Picture](#)
+
+---
+
+## ML Project
+
+I have been working on a machine learning AI algorithm project throughout the year with a group member. This project includes coding and a presentation. The algorithm we used is HDBSCAN. We have learned how to create and use our own AI models.
+
+Below is the PowerPoint presentation representing our findings:
+
+![Picture](#)
+
+---
+
+## LinkedIn Courses
+
+I have completed many LinkedIn Learning courses in various subjects such as MySQL, entrepreneurship, project management, and more throughout the year.
+
+Below is the LinkedIn Learning course presentation about creating GitHub profiles and learning Markdown:
+
+![Picture](#)  
+![Picture](#)  
+![Picture](#)
+
+[LinkedIn Course Video](https://mycputac-my.sharepoint.com/:v:/g/personal/222153881_mycput_ac_za/ES2dpJ1paXhOiFk5yMp90TMBM9_e9DZUL_Lq7a6eg9Xl_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yPMHLJ&referrer=Outlook.Web&referrerScenario=email-linkwithembed)
+
+---
+
+# CV Submission
+
+### Evidence (10%)
+
+I created a personal CV tailored to my career interests and submitted it to my lecturer as required. The CV included key sections such as personal profile, education, work experience, skills, and references. I requested feedback and used the recommended best practices in formatting and content from the rubric. I met the submission deadline and followed the guidelines provided.
+
+### Reflection (10%) – STAR Technique
+
+- **S (Situation):** I needed to create and submit a CV as part of my career counselling coursework.
+- **T (Task):** Build a CV that accurately represents my qualifications, skills, and experiences.
+- **A (Action):** Gathered academic and personal achievements, structured them accordingly, and used feedback to refine the final version.
+- **R (Result):** Successfully submitted a concise and organized CV, improving my confidence and self-marketing ability.
+
+---
+
+# Career Counselling
+
+### Evidence (10%)
+
+I completed the Career Development module, which included multiple-choice questions on key topics such as goal setting, outcomes of career counselling, and the purpose of career development. I answered all the questions correctly, demonstrating my understanding. Total completion time: **00:17:49**.
+
+### Reflection (10%) – STAR Technique
+
+- **S (Situation):** I had to complete an online career development activity.
+- **T (Task):** Complete a multiple-choice quiz covering career-related topics.
+- **A (Action):** Carefully read and answered all questions using prior knowledge.
+- **R (Result):** Scored 100%, reinforcing my understanding of career planning.
+
+---
+
+# Skills and Interests
+
+### Evidence (10%)
+
+I completed the Skills and Interests module by answering multiple-choice questions on values, skills, transferable skills, and career interests. I demonstrated a strong understanding of how these concepts contribute to career planning.
+
+### Reflection (10%) – STAR Technique
+
+- **S (Situation):** Required to complete the Skills and Interests module.
+- **T (Task):** Accurately identify values, skills, and interests in a quiz.
+- **A (Action):** Answered based on readings and personal reflection.
+- **R (Result):** Scored 100%, deepening my understanding of career decision-making.
+
+---
+
+# Create a CV
+
+### Evidence (10%)
+
+I completed the "Create a CV" module, including a quiz that tested my knowledge of CV components. The activity took **15 minutes and 40 seconds**, and I answered all questions correctly.
+
+### Reflection (10%) – STAR Technique
+
+- **S (Situation):** Required to complete the module as part of coursework.
+- **T (Task):** Demonstrate understanding of CV structure and content.
+- **A (Action):** Completed quiz with full marks.
+- **R (Result):** Reinforced CV writing best practices.
+
+---
+
+# Personality Assessment
+
+### Evidence (10%)
+
+I completed the Personality Assessment module by answering multiple-choice questions related to personality types and their alignment with career paths. I achieved a perfect score on the first attempt.
+
+### Reflection (10%) – STAR Technique
+
+- **S (Situation):** Participated in the Personality Assessment activity.
+- **T (Task):** Complete a quiz assessing personality and career alignment.
+- **A (Action):** Answered all questions correctly based on understanding and reflection.
+- **R (Result):** Scored 100%, enhancing self-awareness and guiding future career choices.
