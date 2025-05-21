@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/user-attachments/assets/57403c96-294c-46cc-bdf3-be6d86575de0" alt="gdasz" width="700" height="500">
-
-<img src="https://github.com/user-attachments/assets/b5b7ad5d-7454-4aed-a6ff-be02f4d62eaa" alt="adsgzzz" width="700" height="500">
-
-
-
-
-
 
 # Project 3
 
@@ -52,7 +44,7 @@ I created an individual video explaining all the work that has been completed so
 
 Below is an image of one of the pages with working Bootstrap and PHP functionality.
 
-![Picture](#)
+<img src="https://github.com/user-attachments/assets/b5b7ad5d-7454-4aed-a6ff-be02f4d62eaa" alt="adsgzzz" width="700" height="500">
 
 ---
 
@@ -62,7 +54,7 @@ I have been working on a machine learning AI algorithm project throughout the ye
 
 Below is the PowerPoint presentation representing our findings:
 
-![Picture](#)
+<img src="https://github.com/user-attachments/assets/57403c96-294c-46cc-bdf3-be6d86575de0" alt="gdasz" width="700" height="500">
 
 ---
 
