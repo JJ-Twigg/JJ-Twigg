@@ -76,7 +76,8 @@ Below is the LinkedIn Learning course presentation about creating GitHub profile
 
 
 ---
-<img src="https://github.com/user-attachments/assets/c9b3314b-6f02-4379-b46d-15516fa81c7b" alt="gdaz" />
+<img src="https://github.com/user-attachments/assets/1f6a702b-7d7e-48f8-9231-a4e925332b4e" alt="dagsaaa" />
+
 # CV Submission
 
 ### Evidence 
@@ -91,7 +92,7 @@ I created a personal CV tailored to my career interests and submitted it to my l
 - **R (Result):** Successfully submitted a concise and organized CV, improving my confidence and self-marketing ability.
 
 ---
-<img src="https://github.com/user-attachments/assets/1f6a702b-7d7e-48f8-9231-a4e925332b4e" alt="dagsaaa" />
+
 # Career Counselling
 
 ### Evidence
@@ -140,6 +141,7 @@ I completed the "Create a CV" module, including a quiz that tested my knowledge 
 ---
 <img src="https://github.com/user-attachments/assets/55c1b130-541d-4835-9922-99cdc0c91f2d" alt="gdaaaaaa" />
 
+<img src="https://github.com/user-attachments/assets/c9b3314b-6f02-4379-b46d-15516fa81c7b" alt="gdaz" />
 # Personality Assessment
 
 ### Evidence 
