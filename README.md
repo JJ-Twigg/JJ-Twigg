@@ -69,7 +69,7 @@ I completed the Skills and Interests module by answering multiple-choice questio
 - **R (Result):** Scored 100%, deepening my understanding of career decision-making.
 
 ---
-<img src="https://github.com/user-attachments/assets/47e27301-27b8-4f08-807c-b1deaa98f93b" alt="fasfasfa" />
+![cCv](https://github.com/user-attachments/assets/6ab6d5c4-d343-4832-96a7-ff0eb75658c6)
 
 # Create a CV
 
