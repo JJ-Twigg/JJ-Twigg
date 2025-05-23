@@ -123,7 +123,7 @@ I have been building an eCommerce clothing web app using HTML, CSS, JS, Bootstra
 
 I created an individual video explaining all the work that has been completed so far regarding the Project 3 eCommerce website. I discuss how I collaborated and delegated tasks to group members as the group leader of the project, as well as the coding process and my general experience in the group.
 
-<img src="https://github.com/user-attachments/assets/bc6fed37-45af-4c58-9d5f-58bf2935f921" alt="sazda" width="800" height="600">
+<img src="https://github.com/user-attachments/assets/bc6fed37-45af-4c58-9d5f-58bf2935f921" alt="sazda" width="800" height="400">
 
 [](https://mycputac-my.sharepoint.com/:v:/g/personal/222153881_mycput_ac_za/ES2dpJ1paXhOiFk5yMp90TMBM9_e9DZUL_Lq7a6eg9Xl_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yPMHLJ&referrer=Outlook.Web&referrerScenario=email-linkwithembed)
 
