@@ -113,7 +113,7 @@ I completed the Personality Assessment module by answering multiple-choice quest
 I have been building an eCommerce clothing web app using HTML, CSS, JS, Bootstrap, and PHP with my course group throughout the year. We have held group meetings, worked together, and collaborated on all aspects of the project, including the design in Figma.
 
 <img src="https://github.com/user-attachments/assets/d88d054a-807e-44d6-9d71-d1227c997cfc" alt="111111" width="700" height="500">
-<img src="https://github.com/user-attachments/assets/5cf1cde1-36cb-4d9a-bc7a-a92970c82e09" alt="saza" width="700" height="500">
+<img src="https://github.com/user-attachments/assets/5cf1cde1-36cb-4d9a-bc7a-a92970c82e09" alt="saza" width="900" height="500">
 
 [Figma Design - Styleforless](https://www.figma.com/design/TEcCTZwUlVuNMeA4BE7qd2/Styleforless?node-id=0-1&t=DKMzC69toFIaKx7i-1)
 
@@ -123,7 +123,7 @@ I have been building an eCommerce clothing web app using HTML, CSS, JS, Bootstra
 
 I created an individual video explaining all the work that has been completed so far regarding the Project 3 eCommerce website. I discuss how I collaborated and delegated tasks to group members as the group leader of the project, as well as the coding process and my general experience in the group.
 
-<img src="https://github.com/user-attachments/assets/bc6fed37-45af-4c58-9d5f-58bf2935f921" alt="sazda" width="700" height="500">
+<img src="https://github.com/user-attachments/assets/bc6fed37-45af-4c58-9d5f-58bf2935f921" alt="sazda" width="800" height="500">
 
 [](https://mycputac-my.sharepoint.com/:v:/g/personal/222153881_mycput_ac_za/ES2dpJ1paXhOiFk5yMp90TMBM9_e9DZUL_Lq7a6eg9Xl_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yPMHLJ&referrer=Outlook.Web&referrerScenario=email-linkwithembed)
 
@@ -143,7 +143,7 @@ I have been working on a machine learning AI algorithm project throughout the ye
 
 Below is the PowerPoint presentation representing our findings:
 
-<img src="https://github.com/user-attachments/assets/57403c96-294c-46cc-bdf3-be6d86575de0" alt="gdasz" width="700" height="500">
+<img src="https://github.com/user-attachments/assets/57403c96-294c-46cc-bdf3-be6d86575de0" alt="gdasz" width="900" height="500">
 
 ---
 
@@ -153,7 +153,7 @@ I have completed many LinkedIn Learning courses in various subjects such as MySQ
 
 Below is the LinkedIn Learning course presentation about creating GitHub profiles and learning Markdown:
 
-<img src="https://github.com/user-attachments/assets/51f1678a-6b98-4e34-bfa9-75491fcacc53" alt="SFa" width="700" height="500">
-<img src="https://github.com/user-attachments/assets/1e090e63-319a-46eb-9b7a-6d561955bd2c" alt="aszf" width="700" height="500">
+<img src="https://github.com/user-attachments/assets/51f1678a-6b98-4e34-bfa9-75491fcacc53" alt="SFa" width="900" height="500">
+<img src="https://github.com/user-attachments/assets/1e090e63-319a-46eb-9b7a-6d561955bd2c" alt="aszf" width="900" height="500">
 
 [](https://mycputac-my.sharepoint.com/:v:/g/personal/222153881_mycput_ac_za/ES2dpJ1paXhOiFk5yMp90TMBM9_e9DZUL_Lq7a6eg9Xl_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yPMHLJ&referrer=Outlook.Web&referrerScenario=email-linkwithembed)
