@@ -150,7 +150,7 @@ Below is the PowerPoint presentation representing our findings:
 ## LinkedIn Courses
 
 I have completed many LinkedIn Learning courses in various subjects such as MySQL, entrepreneurship, project management, and more throughout the year.
-Here are a few examples.
+Here are only a few of all the courses I have completed.
 Below is the LinkedIn Learning course presentation about creating GitHub profiles and learning Markdown:
 
 <img src="https://github.com/user-attachments/assets/51f1678a-6b98-4e34-bfa9-75491fcacc53" alt="SFa" width="900" height="700">
