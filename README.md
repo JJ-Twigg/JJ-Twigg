@@ -133,7 +133,7 @@ I created an individual video explaining all the work that has been completed so
 
 Below is an image of one of the pages with working Bootstrap and PHP functionality.
 
-<img src="https://github.com/user-attachments/assets/b5b7ad5d-7454-4aed-a6ff-be02f4d62eaa" alt="adsgzzz" width="700" height="500">
+<img src="https://github.com/user-attachments/assets/b5b7ad5d-7454-4aed-a6ff-be02f4d62eaa" alt="adsgzzz" width="800" height="400">
 
 ---
 
