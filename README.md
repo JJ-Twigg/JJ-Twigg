@@ -19,23 +19,6 @@ Here are some ideas to get you started:
 # Project Presentation 3
 
 ---
-<img src="https://github.com/user-attachments/assets/1f6a702b-7d7e-48f8-9231-a4e925332b4e" alt="dagsaaa" />
-
-# CV Submission
-
-### Evidence 
-
-I created a personal CV tailored to my career interests and submitted it to my lecturer as required. The CV included key sections such as personal profile, education, work experience, skills, and references. I requested feedback and used the recommended best practices in formatting and content from the rubric. I met the submission deadline and followed the guidelines provided.
-
-### Reflection – STAR Technique
-
-- **S (Situation):** I needed to create and submit a CV as part of my career counselling coursework.
-- **T (Task):** Build a CV that accurately represents my qualifications, skills, and experiences.
-- **A (Action):** Gathered academic and personal achievements, structured them accordingly, and used feedback to refine the final version.
-- **R (Result):** Successfully submitted a concise and organized CV, improving my confidence and self-marketing ability.
-
----
-
 ![gdaaaaaa](https://github.com/user-attachments/assets/d3437ce4-791e-4c19-8608-987a5f266049)
 
 # Career Counselling
@@ -52,6 +35,7 @@ I completed the Career Development module, which included multiple-choice questi
 - **R (Result):** Scored 100%, reinforcing my understanding of career planning.
 
 ---
+
 <img src="https://github.com/user-attachments/assets/47e27301-27b8-4f08-807c-b1deaa98f93b" alt="fasfasfa" />
 
 # Skills and Interests
@@ -66,6 +50,25 @@ I completed the Skills and Interests module by answering multiple-choice questio
 - **T (Task):** Accurately identify values, skills, and interests in a quiz.
 - **A (Action):** Answered based on readings and personal reflection.
 - **R (Result):** Scored 100%, deepening my understanding of career decision-making.
+
+
+---
+
+<img src="https://github.com/user-attachments/assets/aeceb571-48a8-49e7-aa91-738b607d8b77" alt="gdaaaaaa" />
+
+
+# Personality Assessment
+
+### Evidence 
+
+I completed the Personality Assessment module by answering multiple-choice questions related to personality types and their alignment with career paths. I achieved a perfect score on the first attempt.
+
+### Reflection – STAR Technique
+
+- **S (Situation):** Participated in the Personality Assessment activity.
+- **T (Task):** Complete a quiz assessing personality and career alignment.
+- **A (Action):** Answered all questions correctly based on understanding and reflection.
+- **R (Result):** Scored 100%, enhancing self-awareness and guiding future career choices.
 
 ---
 ![cCv](https://github.com/user-attachments/assets/6ab6d5c4-d343-4832-96a7-ff0eb75658c6)
@@ -84,21 +87,21 @@ I completed the "Create a CV" module, including a quiz that tested my knowledge 
 - **R (Result):** Reinforced CV writing best practices.
 
 ---
-<img src="https://github.com/user-attachments/assets/aeceb571-48a8-49e7-aa91-738b607d8b77" alt="gdaaaaaa" />
 
+<img src="https://github.com/user-attachments/assets/1f6a702b-7d7e-48f8-9231-a4e925332b4e" alt="dagsaaa" />
 
-# Personality Assessment
+# CV Submission
 
 ### Evidence 
 
-I completed the Personality Assessment module by answering multiple-choice questions related to personality types and their alignment with career paths. I achieved a perfect score on the first attempt.
+I created a personal CV tailored to my career interests and submitted it to my lecturer as required. The CV included key sections such as personal profile, education, work experience, skills, and references. I requested feedback and used the recommended best practices in formatting and content from the rubric. I met the submission deadline and followed the guidelines provided.
 
 ### Reflection – STAR Technique
 
-- **S (Situation):** Participated in the Personality Assessment activity.
-- **T (Task):** Complete a quiz assessing personality and career alignment.
-- **A (Action):** Answered all questions correctly based on understanding and reflection.
-- **R (Result):** Scored 100%, enhancing self-awareness and guiding future career choices.
+- **S (Situation):** I needed to create and submit a CV as part of my career counselling coursework.
+- **T (Task):** Build a CV that accurately represents my qualifications, skills, and experiences.
+- **A (Action):** Gathered academic and personal achievements, structured them accordingly, and used feedback to refine the final version.
+- **R (Result):** Successfully submitted a concise and organized CV, improving my confidence and self-marketing ability.
 
 ---
 
