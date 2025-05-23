@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 # Project Presentation 3
 
-
-![proof](https://github.com/user-attachments/assets/c8967937-645d-4920-b205-1525f77c6f84)
-
-
 ---
 <img src="https://github.com/user-attachments/assets/1f6a702b-7d7e-48f8-9231-a4e925332b4e" alt="dagsaaa" />
 
@@ -104,7 +100,7 @@ I completed the Personality Assessment module by answering multiple-choice quest
 - **A (Action):** Answered all questions correctly based on understanding and reflection.
 - **R (Result):** Scored 100%, enhancing self-awareness and guiding future career choices.
 
-
+![proof](https://github.com/user-attachments/assets/c8967937-645d-4920-b205-1525f77c6f84)
 
 ## Extra Items:
 
