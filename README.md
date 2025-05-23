@@ -113,7 +113,7 @@ I completed the Personality Assessment module by answering multiple-choice quest
 I have been building an eCommerce clothing web app using HTML, CSS, JS, Bootstrap, and PHP with my course group throughout the year. We have held group meetings, worked together, and collaborated on all aspects of the project, including the design in Figma.
 
 <img src="https://github.com/user-attachments/assets/d88d054a-807e-44d6-9d71-d1227c997cfc" alt="111111" width="800" height="700">
-<img src="https://github.com/user-attachments/assets/5cf1cde1-36cb-4d9a-bc7a-a92970c82e09" alt="saza" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/5cf1cde1-36cb-4d9a-bc7a-a92970c82e09" alt="saza" width="1000" height="400">
 
 [Figma Design - Styleforless](https://www.figma.com/design/TEcCTZwUlVuNMeA4BE7qd2/Styleforless?node-id=0-1&t=DKMzC69toFIaKx7i-1)
 
