@@ -155,6 +155,14 @@ Below is the LinkedIn Learning course presentation about creating GitHub profile
 
 <img src="https://github.com/user-attachments/assets/51f1678a-6b98-4e34-bfa9-75491fcacc53" alt="SFa" width="900" height="700">
 <img src="https://github.com/user-attachments/assets/1e090e63-319a-46eb-9b7a-6d561955bd2c" alt="aszf" width="900" height="700">
-<img src="https://github.com/user-attachments/files/20406281/CertificateOfCompletion_Project.Management.Foundations.Communication.pdf" alt="aszf" width="900" height="700">
+
+---
+
+[CertificateOfCompletion_Project Management Foundations Communication.pdf](https://github.com/user-attachments/files/20406289/CertificateOfCompletion_Project.Management.Foundations.Communication.pdf)
+
+[CertificateOfCompletion_Stakeholder Communication Strategies that Stick.pdf](https://github.com/user-attachments/files/20406291/CertificateOfCompletion_Stakeholder.Communication.Strategies.that.Stick.pdf)
+
+[CertificateOfCompletion_Level Up Advanced SQL.pdf](https://github.com/user-attachments/files/20406295/CertificateOfCompletion_Level.Up.Advanced.SQL.pdf)
+
 
 [](https://mycputac-my.sharepoint.com/:v:/g/personal/222153881_mycput_ac_za/ES2dpJ1paXhOiFk5yMp90TMBM9_e9DZUL_Lq7a6eg9Xl_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yPMHLJ&referrer=Outlook.Web&referrerScenario=email-linkwithembed)
